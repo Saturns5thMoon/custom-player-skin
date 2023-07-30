@@ -1,11 +1,11 @@
-#player,#player a{ color:#593815; }
-#player{ background:url('http://static.tumblr.com/bmdsqsc/gNWm78no0/untitled-4.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #593815 }
-#player .mainImage{ background:url('http://static.tumblr.com/bmdsqsc/iZkm78nil/player02.png'); }
+#player,#player a{ color:#D8D8D8; }
+#player{ background:url('http://static.tumblr.com/bmdsqsc/Wa7m7a43g/volume.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
+#player .mainImage{ background:url('http://static.tumblr.com/bmdsqsc/4iXm7a431/player.png'); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url('http://static.tumblr.com/bmdsqsc/EaPm78mr2/pause2.png'); }
+#player #play{ background:url('http://static.tumblr.com/bmdsqsc/cfgm7a42r/pause.png'); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -15,17 +15,17 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:1px dotted #593815;  }
+#player #seekerBase{ border-color:1px dotted #D0D0D0;  }
 #player #seekerBuffered{ background-color:#FFFFFF; }
-#player #seekerSliderBase{ background-color:#212121; }
+#player #seekerSliderBase{ background-color:#5e4029; }
 
 #player #volume{ width:65px; right:39px; background-color: #F0F0F0; height:10px; top:8px;}
 
-#player #volumeSlider{ width:8px; background:url('http://static.tumblr.com/bmdsqsc/gNWm78no0/untitled-4.png');  }
+#player #volumeSlider{ width:8px; background:url('http://static.tumblr.com/bmdsqsc/Wa7m7a43g/volume.png');  }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#333;}
-#playlist .module{ color:#212121; background-color:#FFFFFF; }
-#playlist h3{ background:url('http://static.tumblr.com/oiizew6/Liclzvalo/playlist.png'); color:#212121; background-color:#FFFFFF; }
+#playlist,#playlist .module,#playlist h3{ border-color:#5e4029;}
+#playlist .module{ color:#5e4029; background-color:#FFFFFF; }
+#playlist h3{ background:url('http://static.tumblr.com/bmdsqsc/UNhm7a440/playlist.png'); color:#5e4029; background-color:#FFFFFF; }
 #playlist .even{background-color:#FFFFFF;}
-#playlist .odd{ background-color:#FFFFFF;}
-#playlist .focus{ background-color:#FFFFFF; color:#593815;}
+#playlist .odd{ background-color:#5e4029;}
+#playlist .focus{ background-color:#FFFFFF; color:#212121;}
