@@ -5,7 +5,7 @@
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url('http://static.tumblr.com/bmdsqsc/cfgm7a42r/pause.png'); }
+#player #play{ background:url('https://64.media.tumblr.com/846c0584da3c12c5f7d86e277447201f/61eb15caefb22f33-19/s75x75_c1/a1881e61ab5e720dcfbb2bf8803ef943e6434b0c.pnj'); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
