@@ -28,4 +28,4 @@
 #playlist h3{ background:url('http://static.tumblr.com/bmdsqsc/UNhm7a440/playlist.png'); color:#5e4029; background-color:#FFFFFF; }
 #playlist .even{background-color:#FFFFFF;}
 #playlist .odd{ background-color:#5e4029;}
-#playlist .focus{ background-color:#FFFFFF; color:#212121;}
+#playlist .focus{ background-color:#FFFFFF; color:#5e4029;}
