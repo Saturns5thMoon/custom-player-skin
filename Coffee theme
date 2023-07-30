@@ -1,6 +1,6 @@
 #player,#player a{ color:#D8D8D8; }
 #player{ background:url('https://64.media.tumblr.com/95d343c898970f040aa5810763130edb/61eb15caefb22f33-2e/s75x75_c1/60dc8e595b9153c44e81652a550cfdccf6548626.pnj'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
-#player .mainImage{ background:url('x'); }
+#player .mainImage{ background:url(''); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
