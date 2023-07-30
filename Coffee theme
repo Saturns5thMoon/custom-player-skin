@@ -1,5 +1,5 @@
 #player,#player a{ color:#D8D8D8; }
-#player{ background:url(''); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
+#player{ background:url('https://64.media.tumblr.com/95d343c898970f040aa5810763130edb/61eb15caefb22f33-2e/s75x75_c1/60dc8e595b9153c44e81652a550cfdccf6548626.pnj'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
 #player .mainImage{ background:url('https://64.media.tumblr.com/ba75d04f672e0567ec5443d846f78041/61eb15caefb22f33-b9/s400x600/f511e7c4dc82365157aafd37612e6b8deff231ba.pnj'); }
 
 #player #baseLeft{ width:93px; }
