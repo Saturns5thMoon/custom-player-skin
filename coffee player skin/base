@@ -1,5 +1,5 @@
 #player,#player a{ color:#D8D8D8; }
-#player{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/vol btn.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
+#player{ background:url('vol btn.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
 #player .mainImage{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/coffee skin.png'); }
 
 #player #baseLeft{ width:93px; }
