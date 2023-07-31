@@ -1,11 +1,11 @@
 #player,#player a{ color:#D8D8D8; }
-#player{ background:url('vol'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
-#player .mainImage{ background:url('x'); }
+#player{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/vol btn.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
+#player .mainImage{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/coffee skin.png'); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url('https://64.media.tumblr.com/846c0584da3c12c5f7d86e277447201f/61eb15caefb22f33-19/s75x75_c1/a1881e61ab5e720dcfbb2bf8803ef943e6434b0c.pnj'); }
+#player #play{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/pasue btn.png'); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -21,7 +21,7 @@
 
 #player #volume{ width:65px; right:39px; background-color: #F0F0F0; height:10px; top:8px;}
 
-#player #volumeSlider{ width:8px; background:url('https://64.media.tumblr.com/95d343c898970f040aa5810763130edb/61eb15caefb22f33-2e/s75x75_c1/60dc8e595b9153c44e81652a550cfdccf6548626.pnj');  }
+#player #volumeSlider{ width:8px; background:url('Saturns5thMoon/custom-player-skin/coffee player skin/vol btn.png');  }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#5e4029;}
 #playlist .module{ color:#5e4029; background-color:#FFFFFF; }
