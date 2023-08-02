@@ -1,11 +1,11 @@
 #player,#player a{ color:#D8D8D8; }
-#player{ background:url('vol btn.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
-#player .mainImage{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/coffee skin.png'); }
+#player{ background:url('https://i.imgur.com/O4Hco9b.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #5e4029 }
+#player .mainImage{ background:url('https://i.imgur.com/2rAUuX5.png'); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url('Saturns5thMoon/custom-player-skin/coffee player skin/pasue btn.png'); }
+#player #play{ background:url('https://i.imgur.com/OOhBNot.png'); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -21,11 +21,11 @@
 
 #player #volume{ width:65px; right:39px; background-color: #F0F0F0; height:10px; top:8px;}
 
-#player #volumeSlider{ width:8px; background:url('Saturns5thMoon/custom-player-skin/coffee player skin/vol btn.png');  }
+#player #volumeSlider{ width:8px; background:url('https://i.imgur.com/O4Hco9b.png');  }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#5e4029;}
 #playlist .module{ color:#5e4029; background-color:#FFFFFF; }
-#playlist h3{ background:url('http://static.tumblr.com/bmdsqsc/UNhm7a440/playlist.png'); color:#5e4029; background-color:#FFFFFF; }
+#playlist h3{ background:url('https://i.imgur.com/SbG7Tr7.png'); color:#5e4029; background-color:#FFFFFF; }
 #playlist .even{background-color:#FFFFFF;}
 #playlist .odd{ background-color:#5e4029;}
 #playlist .focus{ background-color:#FFFFFF; color:#5e4029;}
